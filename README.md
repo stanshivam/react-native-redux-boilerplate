@@ -6,7 +6,8 @@ This is a simple react-native init project with some libraries. This project inc
 1. React-Native - (0.57.0)
 2. Redux - (^4.0.0)
 3. Redux-Saga - (^0.16.0)
-4. ESlint
+4. Redux-logger - (^3.0.6)
+5. ESlint
 
 Upcoming features
 
