@@ -3,14 +3,14 @@ React Native Redux Boilerplate with redux-saga
 
 This is a simple react-native init project with some libraries. This project includes out of the box:
 
-1. React-Native
-2. Redux
-3. Redux-Saga
+1. React-Native - (0.57.0)
+2. Redux - (^4.0.0)
+3. Redux-Saga - (^0.16.0)
 4. ESlint
 
 Upcoming features
 
-React Navigation
+React Navigation v2
 
 
 Download
